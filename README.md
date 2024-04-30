@@ -1,5 +1,4 @@
 # Classifying-Skin-Lesions-using-ResNet
-Certainly! Here's a concise description for your project:
 
 ---
 
